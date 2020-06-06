@@ -17,7 +17,7 @@ scikit-learn : for skip thought vectors
 NLTK 3.2.1 : for skip thought vectors
 It is recommended to use a virtual environment for running this project and installing the required dependencies in it by using the requirements.txt file.
 
-The project has been tested on a Ubuntu 14.04 machine with an 12 GB NVIDIA Titen X GPU
+The project has been tested on a windows 10 machine with an 512MB Intel graphics GPU
 
 1. Setup and Run
 1.1. Clone the Repository
