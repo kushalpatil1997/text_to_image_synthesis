@@ -7,6 +7,7 @@ The following is the architecture of the TAC-GAN model
 
 
 
+
 Prerequisites
 Some important dependencies are the following and the rest can be installed using the requirements.txt
 
