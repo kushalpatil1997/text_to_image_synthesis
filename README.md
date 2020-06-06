@@ -33,18 +33,17 @@ using the ```requirements.txt```
 
 It is recommended to use a virtual environment for running this project and
 installing the required dependencies in it by using the
-[***requirements.txt***](https://github.com/dashayushman/TAC-GAN/blob/master/requirements.txt) file.
+[***requirements.txt***](https://github.com/kushalpatil1997/text_to_image_synthesis/blob/master/requirements.txt) file.
 
-The project has been tested on a Ubuntu 14.04 machine with an 12 GB NVIDIA
-Titen X GPU
+The project has been tested on a windows 10 machine with an 512MB Intel graphics GPU
 
 # 1. Setup and Run
 
 ## 1.1. Clone the Repository
 
 ```
-git clone https://github.com/dashayushman/TAC-GAN.git
-cd TAC-GAN
+git clone https://github.com/kushalpatil1997/text_to_image_synthesis.git
+cd text_to_image_synthesis
 ```
 
 ## 1.2. Download the Dataset
